@@ -17,7 +17,8 @@ nav:
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
+  Home: / || fas fa-home
+  Bangumis: /bangumis/ || fas fa-video
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
