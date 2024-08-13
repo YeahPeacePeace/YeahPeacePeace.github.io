@@ -17,9 +17,9 @@ nav:
   fixed: true
 
 menu:
-  Home: / || fas fa-home
-  Bangumis: /bangumis/ || fas fa-video
-  Archives: /archives/ || fas fa-archive
+  首页: / || fas fa-home
+  追番列表: /bangumis/ || fas fa-video
+  时间轴: /archives/ || fas fa-archive
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
