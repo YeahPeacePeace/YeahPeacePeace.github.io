@@ -67,7 +67,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: /images/103_piano2_8k.jpg
+index_img: 
 
 # The banner image of archive page
 archive_img:
