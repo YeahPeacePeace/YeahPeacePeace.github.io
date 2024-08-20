@@ -12,7 +12,7 @@
 nav:
   # Navigation bar logo image
   logo:
-  display_title: true
+  display_title: false
   # Whether to fix navigation bar
   fixed: true
 
